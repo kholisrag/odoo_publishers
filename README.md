@@ -1,2 +1,2 @@
 # odoo_publishers
-Module to tweak odoo 8 for publishing business companies 
+Module to tweak odoo 12 for publishing business companies 
